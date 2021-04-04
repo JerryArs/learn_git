@@ -21,7 +21,7 @@ public:
 };
 
 
-// 2. 移动零
+// 283. 移动零
 //
 class Solution {
 public:
